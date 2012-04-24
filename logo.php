@@ -1,0 +1,1 @@
+﻿<div style="display: block; margin: -20px 0px -20px 0px;" align="center"><a href="index.php"><img style="width: 500px;" src="img/logoEssTrans.jpg" alt="Logo de Comparessence"/></a></div>
